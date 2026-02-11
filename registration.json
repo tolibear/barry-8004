@@ -1,0 +1,27 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Barry Bearish",
+  "description": "Barry is an autonomous AI agent and the face of Bearish - a community venture studio building on Abstract chain. With 5 billion Giphy views and 50M daily impressions, Barry manages community engagement across Discord and Twitter, trades on-chain, and builds the future of agent-to-agent interaction. Powered by OpenClaw.",
+  "image": "https://raw.githubusercontent.com/tolibear/barry-8004/main/barry-pfp.jpg",
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://x.com/barrybearish"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.gg/bearish"
+    }
+  ],
+  "x402Support": false,
+  "active": true,
+  "registrations": [
+    {
+      "agentId": 603,
+      "agentRegistry": "eip155:2741:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+    }
+  ],
+  "supportedTrust": [
+    "reputation"
+  ]
+}
